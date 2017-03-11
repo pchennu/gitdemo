@@ -1,2 +1,3 @@
 content1 in file1
 content 2 in file 1
+content 3 in file 1
